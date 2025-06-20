@@ -1,2 +1,2 @@
 # FusionExec(FEX)
-This project called WOSSL (Windows Open Source Support for Linux) aims to create 100% open source support to run Windows programs and games on Linux more efficiently.
+This project called FusionExec(FEX) aims to create 100% open source support to run Windows programs and games on Linux more efficiently.
